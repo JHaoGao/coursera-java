@@ -1,0 +1,26 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+}
+
+.navbar-toggle {
+  margin-right: 20px;
+}
+
+.box {
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+.box-content {
+  background-color: grey;
+  padding: 20px;
+  height: 100%;
+}
+
+.box h3 {
+  margin-top: 0;
+}
