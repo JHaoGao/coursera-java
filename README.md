@@ -1,3 +1,3 @@
 # coursera-javascript
 Homework practise
-Coursera repository - java course
+Coursera repository - javascript course
